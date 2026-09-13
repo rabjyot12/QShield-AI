@@ -216,3 +216,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# QShield AI Project
+
+# Virtual environments
+qshield-env/
+
+# Project datasets
+data/raw/
+data/processed/
+
+# Trained model artifacts
+models/
+
+# Environment variables
+.env
+.env.*
+
+# Local experiment files
+*.pkl
+*.joblib
